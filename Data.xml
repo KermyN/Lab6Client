@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dragons>
+    <Dragon>
+        <id>70446</id>
+        <name>gsahrehnern</name>
+        <coordinates>
+            <x>564</x>
+            <y>200</y>
+        </coordinates>
+        <age>235</age>
+        <color>RED</color>
+        <type>AIR</type>
+        <character>GOOD</character>
+        <cave>
+            <numberOfTreasures>236.0</numberOfTreasures>
+        </cave>
+    </Dragon>
+	<Dragon>
+		<id>5362</id>
+		<name>gjtymtnd</name>
+		<coordinates>
+			<x>564</x>
+			<y>200</y>
+		</coordinates>
+		<age>235</age>
+		<color>RED</color>
+		<type>AIR</type>
+		<character>GOOD</character>
+		<cave>
+			<numberOfTreasures>236.0</numberOfTreasures>
+		</cave>
+	</Dragon>
+
+
+</Dragons>
